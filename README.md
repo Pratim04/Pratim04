@@ -1,26 +1,41 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://github.com/Pratim04)
-<img align="right" alt="Coding" width="392" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-# 💫 About Me:
-🔭 I’m currently working on DASHBOARD<br>🌱 I’m currently learning JAVA<br>💬 Ask me about REACT, .NET<br>⚡ Fun fact : Problem Solving is a SURVIVAL SKILL
+<!-- Animated Neon Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,22,25,28&height=300&section=header&text=PRATIM%20HALDER&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Code%20Artist&descAlignY=55&descAlign=50&stroke=00d9ff&strokeWidth=2" width="100%"/>
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+🌌;Building+Dashboards+That+Make+Data+Dance+📊;Turning+Coffee+into+Clean+Code+☕;Problem+Solving+is+a+SURVIVAL+SKILL+⚡" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iger_pratim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratimhalder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratimhalder04@gmail.com) 
+<!-- Profile Views & Followers with Neon Style -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratim04&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pratim04?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pratim04?label=TOTAL+STARS&style=for-the-badge&color=00d9ff&labelColor=0d1117&logo=github" alt="Stars" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratim04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pratim04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratim04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratim04&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<!-- About Me Section with Floating GIF -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="right">
+  <img alt="Coding" width="350" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=pratim04&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```javascript
+const pratim = {
+    name: "Pratim Halder",
+    role: "Full Stack Developer",
+    location: "🌍 Earth",
+    currentProject: "DASHBOARD",
+    learning: ["JAVA", "Advanced System Design"],
+    askMeAbout: ["REACT", ".NET", "Node.js", "Problem Solving"],
+    funFact: "Problem Solving is a SURVIVAL SKILL ⚡",
+    philosophy: "Code. Debug. Conquer. 🔥",
+    challenge: "Learning Java while building cool stuff!"
+};
