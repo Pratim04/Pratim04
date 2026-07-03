@@ -33,7 +33,7 @@ const pratim = {
     role: "Full Stack Developer",
     location: "🌍 Earth",
     currentProject: "DASHBOARD",
-    learning: ["JAVA", "Advanced System Design"],
+    learning: ["JAVA"],
     askMeAbout: ["REACT", ".NET", "Node.js", "Problem Solving"],
     funFact: "Problem Solving is a SURVIVAL SKILL ⚡",
     philosophy: "Code. Debug. Conquer. 🔥",
