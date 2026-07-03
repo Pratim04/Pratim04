@@ -1,46 +1,33 @@
-<div align="center">
+# Pratim Halder
 
-<img src="./assets/01_banner.png" alt="banner" style="max-width:100%; height:auto; border-radius:6px;"/>
-
-</div>
+Full-Stack Developer • Problem Solver • Java Enthusiast
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="38%" valign="top">
+## About
 
-<!-- LEFT COLUMN -->
+I build web applications and digital products with clean, maintainable code. Currently pursuing BCA and focusing on full-stack development using React, Node.js and .NET. I enjoy solving problems, learning new technologies, and improving every day.
 
-<div align="left">
+Location: Kolkata, India
 
-### 👋 Hi — I'm Pratim Halder
+Contact: pratimhalder2004@gmail.com
 
-**Code. Debug. Conquer.**
-
-BCA Student • Full Stack Developer
-
-Building digital products with clean, maintainable code.
-
-- 📍 Kolkata, India
-- ✉️ pratimhalder2004@gmail.com
-- 🔗 [GitHub/pratim04](https://github.com/pratim04)
-
+GitHub: https://github.com/pratim04
 
 ---
 
-### ⚔ Battle Statistics
+## Battle Statistics (summary)
 
-- Total commits: **1.2k+**
-- Pull requests: **180+**
-- Issues solved: **160+**
-- Repositories: **35+**
-- Stars earned: **450+**
-- Lines of code: **50k+**
+- Total commits: 1.2k+
+- Pull requests: 180+
+- Issues solved: 160+
+- Repositories: 35+
+- Stars earned: 450+
+- Approx. lines of code: 50k+
 
 ---
 
-### // CODE MODE
+## Code Mode
 
 ```js
 // Life's Algorithm
@@ -55,96 +42,64 @@ while(alive) {
 
 ---
 
-### 🧰 Tech Stack
+## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cs,dotnet,git&theme=dark" alt="tech"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-- Inter Department Football Champion (IEM)
-- Consistent Learner
-- Builder & Problem Solver
-- Always Improving
+- Frontend: React, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express, .NET
+- Databases: MongoDB, MySQL
+- Languages: JavaScript, Java, C#
+- Tools: Git, VS Code, Postman
 
 ---
 
-### 📈 DSA Journey
-
-- Arrays & Strings — ██████████ 100%
-- Recursion & Backtracking — ████████░░ 80%
-- Linked List — █████████░░ 90%
-- Trees — ████████░░ 75%
-- Graphs — ███████░░░ 65%
-
-</div>
-
-    </td>
-    <td width="62%" valign="top">
-
-<!-- RIGHT COLUMN -->
-
-<div align="center">
-
-<!-- contribution graph and stats -->
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <h3>Contribution Graph</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratim04&theme=github-compact&area=true&hide_border=true" alt="activity graph" style="width:100%; max-height:160px; object-fit:cover; border-radius:6px;"/>
-    </td>
-    <td valign="top" width="40%">
-      <h3>Current Streak</h3>
-      <p style="font-size:28px; margin:6px 0; color:#ff6666"><b>28</b> days</p>
-      <h3>Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratim04&hide_border=true&layout=compact&theme=transparent" alt="top langs"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3>Activity Overview</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pratim04&show_icons=true&theme=transparent&hide_border=true" alt="github stats" style="width:100%; border-radius:6px;"/>
-
----
-
-<h3>Current Focus</h3>
-
-- Mastering DSA
-- Full Stack Development (React / Node / .NET)
-- System Design
-- Building Scalable Projects
-- Contributing to Open Source
-
----
-
-<h3>Featured Projects</h3>
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| ⚔ Dashboard | Modern Admin Dashboard (WIP) | React • Node.js |
-| 🛍 RetroRiwaaz | Full-stack E-commerce | React • Node.js • MongoDB |
+| Dashboard | Modern admin dashboard (work in progress) | React • Node.js |
+| RetroRiwaaz | Full-stack e-commerce platform | React • Node.js • MongoDB |
 
-<p align="center">
-<img src="./assets/06_code-panel.png" alt="project" style="width:100%; max-height:220px; object-fit:cover; border-radius:6px;"/>
-</p>
-
-</div>
-
-    </td>
-  </tr>
-</table>
+If you want demos, screenshots or repo links added here, tell me which projects to highlight.
 
 ---
 
-<div align="center">
-  <img src="./assets/10_footer.png" alt="footer" style="width:100%; max-width:100%; height:auto; border-radius:6px;"/>
+## Achievements
 
-  <p style="margin-top:8px;">“The only limit is the one you set yourself.”</p>
-</div>
+- Inter Department Football Champion (IEM)
+- Consistent learner and contributor
+- Builder & problem solver
+- Always improving
+
+---
+
+## DSA Journey (progress)
+
+- Arrays & Strings — 100%
+- Recursion & Backtracking — 80%
+- Linked List — 90%
+- Trees — 75%
+- Graphs — 65%
+
+---
+
+## Current Focus
+
+- Mastering Data Structures & Algorithms (DSA)
+- Finishing the Dashboard project
+- Improving system design knowledge
+- Contributing to open-source projects
+
+---
+
+## Connect
+
+Please replace placeholders below with your preferred contact links if you want them added:
+
+- Email: pratimhalder2004@gmail.com
+- LinkedIn: `https://linkedin.com/in/YOUR_LINK` (replace YOUR_LINK)
+- Twitter/X: `https://twitter.com/YOUR_TWITTER` (replace YOUR_TWITTER)
+- Portfolio: `https://your-portfolio.example.com`
+
+---
+
+*"The only limit is the one you set yourself."*
