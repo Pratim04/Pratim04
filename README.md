@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=PRATIM%20HALDER&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Code.%20Debug.%20Conquer.&descAlignY=60&descSize=18"/>
+<img src="./assets/01_banner.png" width="100%" alt="banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=000000&text=PRATIM%20HALDER&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Code.%20Debug.%20Conquer.&descAlignY=60&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe.;Full+Stack+Developer.;React+%7C+Node.js+%7C+.NET+%7C+Java.;Building+Cool+Things+One+Commit+At+A+Time.;Problem+Solving+is+a+SURVIVAL+SKILL.)](https://git.io/typing-svg)
 
@@ -17,7 +19,7 @@
 
 <div align="center">
 
-<img width="330" src="YOUR_MANGA_IMAGE_LINK_HERE"/>
+<img width="330" src="./assets/02_profile.png" alt="profile"/>
 
 </div>
 
@@ -52,7 +54,7 @@ class Developer{
 
 ---
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="./assets/06_code-panel.png" width="100%" alt="code panel"/>
 
 # ⚔ Philosophy
 
@@ -88,6 +90,8 @@ while(alive){
 
 ---
 
+<img src="./assets/03_chapter-divider.png" width="100%" alt="divider"/>
+
 # 「Projects」
 
 | Project | Description | Stack |
@@ -97,7 +101,7 @@ while(alive){
 
 ---
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="./assets/04_katana-divider.png" width="100%" alt="divider"/>
 
 # 「Battle Statistics」
 
@@ -115,7 +119,7 @@ while(alive){
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratim04&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img src="./assets/07_stats-frame.png" alt="stats frame"/>
 
 </div>
 
@@ -125,13 +129,13 @@ while(alive){
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratim04&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+<img src="./assets/08_graph-frame.png" alt="graph frame"/>
 
 </div>
 
 ---
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="./assets/09_speech-bubble.png" width="100%" alt="speech bubble"/>
 
 # 「Challenge」
 
@@ -176,14 +180,14 @@ Status:
 
 <div align="center">
 
-# 「戦いは終わらない」
+<img src="./assets/10_footer.png" width="100%" alt="footer"/>
+
+# 「戦いは終わらない"
 
 ### *Keep Building.*
 
 ### *Keep Learning.*
 
 ### *Keep Fighting.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=000000"/>
 
 </div>
