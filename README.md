@@ -1,107 +1,150 @@
 <div align="center">
 
-<img src="./assets/01_banner.png" alt="banner" style="max-width:100%; height:auto;" />
+<img src="./assets/01_banner.png" alt="banner" style="max-width:100%; height:auto; border-radius:6px;"/>
 
-
-<h1 align="center">Hi, I'm Pratim Halder 👋</h1>
-<p align="center">Full-Stack Developer • Problem Solver • Java Enthusiast</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Code.+Debug.+Conquer.;Building+Cool+Things+One+Commit+At+A+Time.;Problem+Solving+is+a+SURVIVAL+SKILL." alt="typing"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pratim04"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=pratim04&style=for-the-badge&color=000000"/></a>
-  <a href="https://github.com/pratim04?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/pratim04?style=for-the-badge&color=000000"/></a>
-  <a href="https://github.com/pratim04?tab=stars"><img alt="Stars" src="https://img.shields.io/github/stars/pratim04?style=for-the-badge&color=000000"/></a>
-</p>
+</div>
 
 ---
 
-<div align="center">
-  <img src="./assets/02_profile.png" width="220" alt="profile" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="38%" valign="top">
 
-## About me
+<!-- LEFT COLUMN -->
 
-I'm a Full-Stack Developer focused on building beautiful and useful web applications. I love learning new technologies (currently diving deeper into Java) and solving challenging problems.
+<div align="left">
 
-```cpp
-class Developer{
-  String name = "Pratim Halder";
-  String role = "Full Stack Developer";
-  String location = "Earth";
-  String currentProject = "Dashboard";
-  String learning = "Java";
-  String[] skills = {"React", "Node.js", ".NET", "MongoDB", "Tailwind"};
-  String mantra = "Code. Debug. Conquer.";
+### 👋 Hi — I'm Pratim Halder
+
+**Code. Debug. Conquer.**
+
+BCA Student • Full Stack Developer
+
+Building digital products with clean, maintainable code.
+
+- 📍 Kolkata, India
+- ✉️ pratimhalder2004@gmail.com
+- 🔗 [GitHub/pratim04](https://github.com/pratim04)
+
+
+---
+
+### ⚔ Battle Statistics
+
+- Total commits: **1.2k+**
+- Pull requests: **180+**
+- Issues solved: **160+**
+- Repositories: **35+**
+- Stars earned: **450+**
+- Lines of code: **50k+**
+
+---
+
+### // CODE MODE
+
+```js
+// Life's Algorithm
+while(alive) {
+  code();
+  debug();
+  learn();
+  improve();
+  conquer();
 }
 ```
 
 ---
 
-## Tech Stack
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,dotnet,cs,java,tailwind,git&theme=dark" alt="tech"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cs,dotnet,git&theme=dark" alt="tech"/>
 </p>
 
 ---
 
-## Projects
+### 🏆 Achievements
+
+- Inter Department Football Champion (IEM)
+- Consistent Learner
+- Builder & Problem Solver
+- Always Improving
+
+---
+
+### 📈 DSA Journey
+
+- Arrays & Strings — ██████████ 100%
+- Recursion & Backtracking — ████████░░ 80%
+- Linked List — █████████░░ 90%
+- Trees — ████████░░ 75%
+- Graphs — ███████░░░ 65%
+
+</div>
+
+    </td>
+    <td width="62%" valign="top">
+
+<!-- RIGHT COLUMN -->
+
+<div align="center">
+
+<!-- contribution graph and stats -->
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h3>Contribution Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratim04&theme=github-compact&area=true&hide_border=true" alt="activity graph" style="width:100%; max-height:160px; object-fit:cover; border-radius:6px;"/>
+    </td>
+    <td valign="top" width="40%">
+      <h3>Current Streak</h3>
+      <p style="font-size:28px; margin:6px 0; color:#ff6666"><b>28</b> days</p>
+      <h3>Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratim04&hide_border=true&layout=compact&theme=transparent" alt="top langs"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>Activity Overview</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratim04&show_icons=true&theme=transparent&hide_border=true" alt="github stats" style="width:100%; border-radius:6px;"/>
+
+---
+
+<h3>Current Focus</h3>
+
+- Mastering DSA
+- Full Stack Development (React / Node / .NET)
+- System Design
+- Building Scalable Projects
+- Contributing to Open Source
+
+---
+
+<h3>Featured Projects</h3>
 
 | Project | Description | Stack |
-|---|---:|:---|
-| ⚔ Dashboard | Modern admin dashboard (WIP) | React • Node.js |
-| 🛍 RetroRiwaaz | Full-stack e-commerce | React • Node.js • MongoDB |
-
-> Want to see a specific project demo here? Tell me which one and I'll add a preview.
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratim04&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratim04&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" alt="top langs"/>
-</div>
-
----
-
-## Activity & Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratim04&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratim04&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" alt="activity graph"/>
-</div>
-
----
-
-## Current Goals
-
-- Learn and master Java
-- Finish building the Dashboard project
-- Improve problem solving and algorithms
-
----
-
-## Connect
-
-> Please update these links with your real contact details — I left placeholders for privacy.
+|---|---|---|
+| ⚔ Dashboard | Modern Admin Dashboard (WIP) | React • Node.js |
+| 🛍 RetroRiwaaz | Full-stack E-commerce | React • Node.js • MongoDB |
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/></a>
+<img src="./assets/06_code-panel.png" alt="project" style="width:100%; max-height:220px; object-fit:cover; border-radius:6px;"/>
 </p>
+
+</div>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="./assets/10_footer.png" width="100%" alt="footer" />
-  
-  ### 「戦いは終わらない」
-  #### Keep Building • Keep Learning • Keep Fighting
+  <img src="./assets/10_footer.png" alt="footer" style="width:100%; max-width:100%; height:auto; border-radius:6px;"/>
+
+  <p style="margin-top:8px;">“The only limit is the one you set yourself.”</p>
 </div>
